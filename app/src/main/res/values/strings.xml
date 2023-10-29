@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadsContador</string>
+    <string name="imageView">logo</string>
+    <string name="txtContador">0</string>
+    <string name="btnInicio">Iniciar</string>
+    <string name="btnstop">Stop</string>
+</resources>
